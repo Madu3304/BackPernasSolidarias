@@ -2,7 +2,7 @@
 {
     public class CadeiranteComCadeiraModel
     {
-        public string? NomeTeste { get; set; }
+        public string? Nome { get; set; }
         public string? CPF { get; set; }
         public DateTime DataNascimento { get; set; }
         public string? Email { get; set; }
