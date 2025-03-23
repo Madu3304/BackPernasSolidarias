@@ -36,6 +36,8 @@ A arquitetura do sistema será baseada na seguinte stack de desenvolvimento:
 
 4.1.6. Controle de status das inscrições(pagamento).
 
+4.1.7. Na tela de confirmação de duplas e emissão de relatório habilitar um botão para editar ou deletar dupla. 
+
 4.2. Não Funcionais:
 
 4.2.1. apresentar uma lista de corredores na tela.
@@ -46,9 +48,11 @@ A arquitetura do sistema será baseada na seguinte stack de desenvolvimento:
 
 4.2.4. Login e controle de acesso.
 
-4.2.5. Atualização da tela de graficos após adicionar algum dado.
+4.2.5. Atualização da tela de gráficos após adicionar algum dado.
 
 4.2.6. Atualização da tela de membros após adicionar algum membro.
+
+4.2.7. Ao ser digitado um CPF, sistema verificar se esse CPF já está salvo no banco, se estiver mostrar uma mensagem de corredor/cadeirante já cadastrado.
 
 A seguir apresentação do software no canva: https://www.canva.com/design/DAGgJffJCYk/ViDorR_SujCG4ZiUTeNCqA/edit?utm_content=DAGgJffJCYk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
