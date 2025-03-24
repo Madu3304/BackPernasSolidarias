@@ -10,5 +10,6 @@
         public string? TamanhoBlusa { get; set; }
         public string? Distancia { get; set; }
         public string? UltimaCorrida { get; set; }
+        public string? ComSemCadeira { get; set; }
     }
 }
